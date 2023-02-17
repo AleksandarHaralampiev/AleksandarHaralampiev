@@ -9,13 +9,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alekharalampiev" alt="alekharalampiev" /></a> </p>
 
-<h3 align="center">🔭 I’m currently working on **a website for people to share their stories**</h3>
-
-<h3 align="center">🌱 I’m currently learning **Intermidiate python, Flask, Html, CSS, C**</h3>
-
-<h3 align="center">👯 I’m looking to collaborate on **a hackathon coming up**</h3>
-
-<h3 align="center">📫 How to reach me **alek.h.haralampiev@gmail.com**</h3>
+<h3 align="center">🔭 I’m currently working on <b>a website for people to share their stories</b></h3>
+<h3 align="center">🌱 I’m currently learning <b>Intermediate python, Flask, Html, CSS, C</b></h3>
+<h3 align="center">👯 I’m looking to collaborate on <b>a hackathon coming up</b></h3>
+<h3 align="center">📫 How to reach me <b>alek.h.haralampiev@gmail.com</b></h3>
 
 
 <h3 align="center">Connect with me:</h3>
