@@ -1,21 +1,18 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-<h1 align="center">Hi 👋, I'm Aleksandar Haralampiev</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Alek...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">I am a fullstack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bulgaria</h3>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"  /></p>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alekharalampiev" alt="alekharalampiev" /></a> </p>
 
 <h3 align="center">🔭 I’m currently working on <b>a website for people to share their stories</b></h3>
 <h3 align="center">🌱 I’m currently learning <b>Intermediate python, Flask, Html, CSS, C</b></h3>
@@ -91,13 +88,6 @@
 <hr>
 
 <div style="display: flex; justify-content: center;">
-
-</div>
-<p align="center" >  
-  <a href="https://github.com/AleksandarHaralampiev/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=AleksandarHaralampiev&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
   
   <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
