@@ -33,7 +33,6 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=AleksandarHaralampiev&&show_icons=true&theme=radical"/>
   </a>
   </p>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
