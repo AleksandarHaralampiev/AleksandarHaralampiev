@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Aleksandar Haralampiev</h1>
 <h3 align="center">I am a fullstack developer from Bulgaria</h3>
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47w22iiubpm9q5vvzsm9spza6smvx4vrbogvf6wia9&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47w22iiubpm9q5vvzsm9spza6smvx4vrbogvf6wia9&rid=giphy.gif&ct=g">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alekharalampiev" alt="alekharalampiev" /></a> </p>
 
