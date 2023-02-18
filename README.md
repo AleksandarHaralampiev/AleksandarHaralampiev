@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/aleksandar-haralampiev-208aaa266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aleksandar-haralampiev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21236901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aleksandar-haralampiev" height="30" width="40" /></a>
 <a href="https://instagram.com/aleksandar__haralampiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aleksandar__haralampiev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yobo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCD4TNqcGHOAohSp19iZMHsA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yobo" height="30" width="40" /></a>
 <a href="https://discord.gg/8adF3Xhzw2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8adF3Xhzw2" height="30" width="40" /></a>
 </p>
 
