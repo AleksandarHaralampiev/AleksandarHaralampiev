@@ -14,10 +14,10 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"  /></p>
 
 
-<h3 align="center">🔭 I’m currently working on <b>a website for people to share their stories</b></h3>
-<h3 align="center">🌱 I’m currently learning <b>Intermediate python, Flask, Html, CSS, C</b></h3>
+<h3 align="center">🔭 I’m currently working on <b> my hackaton project</b></h3>
+<h3 align="center">🌱 I’m currently learning <b>Advanced Python, Django, DRF, PostgreSQL, C</b></h3>
 <h3 align="center">👯 I’m looking to collaborate on <b>a hackathon coming up</b></h3>
-<h3 align="center">📫 How to reach me <b>alek.h.haralampiev@gmail.com</b></h3>
+<h3 align="center">📫 How to reach me <b>alexandar.h.haralampiev@gmail.com</b></h3>
 
 
 <h3 align="center">📞Connect with me📞:</h3>
